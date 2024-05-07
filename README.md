@@ -1,7 +1,7 @@
 # PostPorceeingToolkit
 python3 Scripts to Post-Porocces the NR Simulations produced with BAM Code
 
-Fuctions: 
+ Functions
 
 The provided code contains several functions, each designed for specific operations involving VTK files and NumPy arrays. Here's a list of the functions along with a brief description of their purpose:
 
